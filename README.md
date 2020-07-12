@@ -1,4 +1,4 @@
-# Htm
+# Html
 Basic Html Review
 
 html(Hyper Text Markup Language) adalah sebuah markup language yang menurut saya jika di analogikan html sama hal nya seperti pondasi rumah yang membentuk dasar dari sebuah rumah berserta dinding dan pilar" nya
