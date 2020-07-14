@@ -15,7 +15,7 @@ Pada Html (Hypertext Markup Languag) Struktur dasar nya adalah sebagai berikut:
 
 Fungsi :
 
-<!Doctype html>  					: Inisialiasi untuk html yang kita buat adalah html 5 (versi terbaru);
+<!Doctype html>  					              : Inisialiasi untuk html yang kita buat adalah html 5 (versi terbaru);
  <html>          					: tag pembungkus html
   <head>         					: salah satu main tag
    <title>Hello world!</title>      : tag yang di gunakan untuk memberikan judul website pada tab browser
